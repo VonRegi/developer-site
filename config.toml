@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://vonregi.github.io/developer-site-build/"
 languageCode = "en-us"
 title = "Reginald's site"
 description = "Melbourne based DevOps engineer with a hint of reporting ;)"
