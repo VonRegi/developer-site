@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Reginald's site"
+description = "Melbourne based DevOps engineer with a hint of reporting ;)"
+theme = "hugograyscale"
+
+[params]
+    custom_css = ["static/css/custom.css"]
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[author]
+    name = "Thomas Reginald Budds"
+    email = "thomas.budds@protonmail.com"
