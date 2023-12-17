@@ -6,5 +6,5 @@ description: "A port of the Grayscale theme to Hugo"
 
 menu:
     # - {url: "/me", name: "About Me"}
-    # - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
 ---

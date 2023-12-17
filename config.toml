@@ -1,8 +1,8 @@
 baseURL = "https://vonregi.github.io/developer-site-build/"
 languageCode = "en-us"
 title = "Reginald's site"
-description = "Melbourne based DevOps engineer with a hint of reporting ;)"
-theme = "hugograyscale"
+description = "Melbourne based DevOps engineer ;)"
+theme = "hugograyscale">
 
 [params]
     custom_css = ["static/css/custom.css"]
@@ -11,5 +11,5 @@ theme = "hugograyscale"
     unsafe= true
 
 [author]
-    name = "Thomas Reginald Budds"
-    email = "thomas.budds@protonmail.com"
+    name = "Thomas Budds"
+    email = "thomas.budds@pm.com"
