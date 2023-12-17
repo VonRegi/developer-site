@@ -2,7 +2,7 @@ baseURL = "https://vonregi.github.io/developer-site-build/"
 languageCode = "en-us"
 title = "Reginald's site"
 description = "Melbourne based DevOps engineer ;)"
-theme = "hugograyscale">
+theme = "hugograyscale"
 
 [params]
     custom_css = ["static/css/custom.css"]
