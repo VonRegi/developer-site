@@ -7,8 +7,9 @@ improvecontrast: true
 
 ## My Experience
 
-I have been working at Readify/Purple for 5 years now through a working on a multitude of technologies and teams.
+I have been working at Purple for 7 years now through a working on a multitude of technologies and teams.
 
+- Automation (Powershell, ARM, IaaS)
 - Application dev (react, dotnet, Office Interop)
 - Products (SaaS)
 - System integration (1st and 3rd party solutions)
@@ -17,4 +18,4 @@ I have been working at Readify/Purple for 5 years now through a working on a mul
 
 ## Currently
 
-I am working as the Integration Lead for new aquisitions joining Purple in DevSecOps/SRE.
+I am working as the IT Stream Lead for M&A, handling the due dilligence, stakeholder management, onboarding and integration of all Purple aquisitions. I also occasionally dabble in DevSecOps/SRE just for fun!

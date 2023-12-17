@@ -6,9 +6,11 @@ improvecontrast: true
 
 ### About Me
 
-Thomas Budds is a Melbourne based DevOps engineer with some reporting for spice
+Thomas Budds is a Melbourne based, IT Steam Lead in M&A and DevOps/SRE.
 
-I currently work at [Telstra Purple](https://purple.telstra.com.au) (formerly Readify) in the DevSecOps.
+I currently work at [Telstra Purple](https://purple.telstra.com.au) (formerly Readify) in Merges & Acquisitions.
+
+I have worked on some major acquisitions for Telstra including Epicon ($25M), Aqura Technologies ($40M), Alliance Automation ($40M) and Versent ($267M).
 
 I am fascinated by automation and all things integration!
 

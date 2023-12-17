@@ -7,4 +7,4 @@ improvecontrast: true
 
 ## Reach out?
 
-If you want to reach me or simply say "Hi": <thomas.budds@protonmail.com>
+If you want to reach me or simply say "Hi": <thomas.budds@pm.me>
